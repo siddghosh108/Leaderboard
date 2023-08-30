@@ -13,7 +13,6 @@
 - [Built With](#built-with) 🛠
 - [Tech Stack 🗜️](#tech-stack)
 - [Key Features 🏷️](#key-features)
-- [🚀 Live Demo](#live-demo)
 - [Getting Started 💻](#getting-started)
 - [Setup ⚙️](#setup)
 - [Prerequisites 🧱](#prerequisites)
@@ -68,14 +67,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr>
 
-<!-- LIVE DEMO -->
-## <b>Live Demo 🚀</b><a name="live-demo"></a>
 
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<hr>
 
 <!-- GET STARTED -->
 ## <b>Getting Started 💻</b><a name="getting-started"></a>
@@ -108,7 +101,7 @@ In order to run this project you need:
 -  Clone the repository
 
   ```sh
-        git clone https://github.com/siddghosh108/Leaderboard.git
+        git clone https://github.com/MariamOsman11/Leaderboard.git
   ```
 - Install all dependencies:
 
@@ -173,10 +166,11 @@ This project was deployed using GitHub Pages. For more information about how to 
 ## <b>Authors 👥<b><a name="authors"></a>
 
 👤 **Author1**
- **Siddhartha**
-- GitHub: https://github.com/siddghosh108
-- Twitter: https://twitter.com/siddharthaghos9
-- LinkedIn: https://www.linkedin.com/in/siddhartha-ghosh-65902718/
+ **Mariam**
+- GitHub: [@MariamOsman11](https://github.com/MariamOsman11)
+- Twitter: [@Mariannaloveee](https://twitter.com/@Mariannaloveee)
+- LinkedIn: [Marianna Osman](linkedin.com/in/marianna-osman-a57b75226)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

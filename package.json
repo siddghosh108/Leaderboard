@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siddghosh108/Leaderboard.git"
+    "url": "git+https://github.com/MariamOsman11/Webpack-Setup.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/siddghosh108/Leaderboard/issues"
+    "url": "https://github.com/MariamOsman11/Webpack-Setup/issues"
   },
-  "homepage": "https://github.com/siddghosh108/Leaderboard#readme",
+  "homepage": "https://github.com/MariamOsman11/Webpack-Setup#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.8.1",
