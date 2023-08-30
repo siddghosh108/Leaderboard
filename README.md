@@ -101,7 +101,7 @@ In order to run this project you need:
 -  Clone the repository
 
   ```sh
-        git clone https://github.com/MariamOsman11/Leaderboard.git
+        git clone https://github.com/siddghosh108/Leaderboard.git
   ```
 - Install all dependencies:
 
@@ -166,10 +166,10 @@ This project was deployed using GitHub Pages. For more information about how to 
 ## <b>Authors 👥<b><a name="authors"></a>
 
 👤 **Author1**
- **Mariam**
-- GitHub: [@MariamOsman11](https://github.com/MariamOsman11)
-- Twitter: [@Mariannaloveee](https://twitter.com/@Mariannaloveee)
-- LinkedIn: [Marianna Osman](linkedin.com/in/marianna-osman-a57b75226)
+ **Siddhartha**
+- GitHub: [@siddghosh108](https://github.com/siddghosh108)
+- Twitter: [@siddharthaghos9](https://twitter.com/siddharthaghos9)
+- LinkedIn: [@siddhartha-ghosh-65902718](https://www.linkedin.com/in/siddhartha-ghosh-65902718)
 
 
 
